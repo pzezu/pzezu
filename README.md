@@ -1,4 +1,12 @@
 ### Hi there 👋
+<!--
+- Im currently working as an Freelancer
+- Currently im graduateaded in Accounting and
+studying data science with Python applied a Finances
+- I’m looking to collaborate on Finance and Data Areas
+-->
+
+
 
 <!--
 **pzezu/pzezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
