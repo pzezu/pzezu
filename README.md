@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### My name is Pedro Alexandrino and I am enthusiastic in data and finance.
-- Currently, I am currently working on personal projects and as a freelancer.
-- Additionally, I am in the process of earning a degree in Accounting and am currently pursuing studies in Data Science, applying Python to finance-related applications.
+#### My name is Pedro Alexandrino, I am enthusiastic in data and finance.
+- Currently, I am working on personal projects and as a freelancer.
+- Additionally, I'm majoring in Accounting Sciences in Brazil and studying Data Science, applying Python to finance-related applications.
 - I am looking for collaboration opportunities in finance and data and would appreciate your assistance in finding such opportunities.
 - I aspire to establish a significant holding company that will elevate my innovations to unparalleled heights.
 
