@@ -36,13 +36,16 @@
 
 ## 🧠 Technology — Layered Knowledge System
 
-Três vistas paralelas: **o que uso**, **o que sei**, **o que estou aprendendo**.  
-Cada uma organizada por camadas: Core → Software → Dados/Integração → Produto/Colaboração.
+Three perspectives: **what I use**, **what I know**, **what I’m learning**.  
+Each organized by layers: Core → Software → Data/Integration → Product/Collaboration.
 
-### ✅ O que **uso** no dia a dia
+---
+
+### ✅ What I **Use** Daily
+
 **Core Systems**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,docker,vscodium,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,git,docker,vscodium,github&theme=light" />
 </p>
 
 **Software**
@@ -50,19 +53,20 @@ Cada uma organizada por camadas: Core → Software → Dados/Integração → Pr
   <img src="https://skillicons.dev/icons?i=python,html,css&theme=light" />
 </p>
 
-**Dados e Integração**
+**Data & Integration**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,supabase&theme=light" />
 </p>
 
-**Produto e Colaboração**
+**Product & Collaboration**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,notion,discord&theme=light" />
 </p>
 
 ---
 
-### 🧩 O que eu **sei** (proficiente)
+### 🧩 What I **Know** (Proficient)
+
 **Core Systems**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,git&theme=light" />
@@ -75,7 +79,8 @@ Cada uma organizada por camadas: Core → Software → Dados/Integração → Pr
 
 ---
 
-### 🚀 O que estou **aprendendo**
+### 🚀 What I’m **Learning**
+
 **Software**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,rust,flutter,dart&theme=light" />
