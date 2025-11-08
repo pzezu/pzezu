@@ -7,6 +7,11 @@
 ### 📬 Connect with Me  
 
 <p align="center">
+  <a href="pedro.pzezu.org">
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:contact@pzezu.org">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
@@ -35,14 +40,14 @@
 
 ---
 
-### 🧠 Programming Languages
+### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,zsh,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,bash,git&theme=light" />
   </a>
 </p>
 
-### ⚙️ Studying
+### Studying
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,rust,flutter,dart&theme=light" />
@@ -50,17 +55,17 @@
 </p>
 
 
-### ⚙️ Tools
+### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscodium,github,linux,archlinux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscodium,github,linux,docker&theme=light" />
   </a>
 </p>
 
-### ⚙️ Services
+### Services/Setup
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,notion,supabase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=arch,figma,discord,notion,supabase&theme=light" />
   </a>
 </p>
 
