@@ -35,17 +35,32 @@
 
 ---
 
-### 🧠 Skills
+### 🧠 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,shell,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,shell,git&theme=light" />
   </a>
 </p>
+
+### ⚙️ Studying
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js, rust, flutter, dart&theme=light" />
+  </a>
+</p>
+
 
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscodium,github,linux,archlinux&theme=light" />
+  </a>
+</p>
+
+### ⚙️ Services
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord, notion, supabase&theme=light" />
   </a>
 </p>
 
