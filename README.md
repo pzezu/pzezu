@@ -45,7 +45,7 @@ Each organized by layers: Core → Software → Data/Integration → Product/Col
 
 **Core Systems**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bash,git,docker,vscodium,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,docker,vscodium,github&theme=light" />
 </p>
 
 **Software**
@@ -55,7 +55,7 @@ Each organized by layers: Core → Software → Data/Integration → Product/Col
 
 **Data & Integration**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,supabase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=supabase&theme=light" />
 </p>
 
 **Product & Collaboration**
