@@ -45,7 +45,7 @@ Each organized by layers: Core → Software → Data/Integration → Product/Col
 
 **Core Systems**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bash,docker,vscodium,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,docker,vscodium,github,obsidian&theme=light" />
 </p>
 
 **Software**
@@ -60,7 +60,7 @@ Each organized by layers: Core → Software → Data/Integration → Product/Col
 
 **Product & Collaboration**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,notion,discord&theme=light" />
+  <img src="https://skillicons.dev/icons?i=figma,notion,discord,vercel&theme=light" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Each organized by layers: Core → Software → Data/Integration → Product/Col
 
 **Core Systems**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,md&theme=light" />
 </p>
 
 **Software**
@@ -83,7 +83,7 @@ Each organized by layers: Core → Software → Data/Integration → Product/Col
 
 **Software**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,rust,flutter,dart&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,rust,flutter,dart,neovim&theme=light" />
 </p>
 
 ---
