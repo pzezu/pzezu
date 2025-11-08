@@ -3,7 +3,6 @@
 # Pedro Alexandrino
 
 **Founder · Developer · Finance Enthusiast**  
-Exploring the intersection of **technology**, **finance**, and **intelligent systems**.  
 💡 *“Crafting logic and elegance in every line of code.”*
 
 ---
@@ -35,75 +34,52 @@ Exploring the intersection of **technology**, **finance**, and **intelligent sys
 
 ---
 
-## 🧠 Technology Stacks — Layered Knowledge System
+## 🧠 Technology — Layered Knowledge System
 
-A visão sistêmica abaixo organiza a tecnologia **em camadas interdependentes**, da base física até a interação humana.
+Três vistas paralelas: **o que uso**, **o que sei**, **o que estou aprendendo**.  
+Cada uma organizada por camadas: Core → Software → Dados/Integração → Produto/Colaboração.
 
----
-
-### ⚙️ **1. Core Systems — Infraestrutura e Processos**
+### ✅ O que **uso** no dia a dia
+**Core Systems**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,docker,git,vscodium&theme=light" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,docker,vscodium,github&theme=light" />
 </p>
 
-**Domínios:**  
-Hardware, SO, virtualização, cloud, containers, redes.  
-**Perfis:** SysAdmin, DevOps, Eng. de sistemas.
-
----
-
-### 🧩 **2. Software & Development — Lógica e Aplicações**
+**Software**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,js,dart,flutter,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,html,css&theme=light" />
 </p>
 
-**Domínios:**  
-Backend, APIs, frontend, mobile.  
-**Perfis:** Fullstack Dev, Mobile Dev, API Engineer.
-
----
-
-### 💾 **3. Data & Intelligence — Armazenamento e Análise**
+**Dados e Integração**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis&theme=light" />
+  <img src="https://skillicons.dev/icons?i=postgresql,supabase&theme=light" />
 </p>
 
-**Domínios:**  
-Storage, bancos de dados, pipelines, ciência de dados, IA.  
-**Perfis:** Data Engineer, Data Scientist, ML Engineer.
-
----
-
-### 🧮 **4. Automation & Integration — Conectividade e Eficiência**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,postman,githubactions,supabase&theme=light" />
-</p>
-
-**Domínios:**  
-APIs, RPA, integração, automação de fluxo.  
-**Perfis:** Integration Eng., Automation Specialist.
-
----
-
-### 🧰 **5. Product & Experience — Design, Usabilidade e Comunicação**
+**Produto e Colaboração**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,notion,discord&theme=light" />
 </p>
 
-**Domínios:**  
-Design de produto, UX, colaboração, sistemas de design.  
-**Perfis:** UI/UX Designer, Product Designer, PM.
+---
+
+### 🧩 O que eu **sei** (proficiente)
+**Core Systems**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git&theme=light" />
+</p>
+
+**Software**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css&theme=light" />
+</p>
 
 ---
 
-### 🔐 **6. Security & Governance — Ética e Sustentabilidade**
+### 🚀 O que estou **aprendendo**
+**Software**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=security,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,rust,flutter,dart&theme=light" />
 </p>
-
-**Domínios:**  
-Cibersegurança, privacidade, auditoria, ética digital.  
-**Perfis:** Cyber Analyst, CISO, AI Safety Researcher.
 
 ---
 
@@ -117,6 +93,3 @@ Cibersegurança, privacidade, auditoria, ética digital.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzezu&layout=compact&langs_count=8&theme=radical&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF&custom_title=Most%20Used%20Languages" height="170em" />
   <img src="https://github-contributor-stats.vercel.app/api?username=pzezu&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF" height="170em" />
 </p>
-
----
-
