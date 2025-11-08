@@ -38,16 +38,14 @@
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php,python&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,shell,git&theme=light" />
   </a>
 </p>
-
----
 
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscodium,git,github,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscodium,github,linux,archlinux&theme=light" />
   </a>
 </p>
 
@@ -58,12 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pzezu&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 <img src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
----
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzezu&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
-
----
-
 <img src="https://github-contributor-stats.vercel.app/api?username=pzezu&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 
 ---
