@@ -7,4 +7,4 @@
 
 I'm Pedro Alexandrino, a Controlling & FP&A analyst passionate about finance, technology and automation. I combine financial expertise with Python and data to build efficient processes, smarter analyses and better business decisions.
 
-Currently finishing my Accounting degree, I'm driven by curiosity, systems thinking and continuous learning, with a long-term goal of building businesses at the intersection of finance and technology.
+I'm driven by curiosity, systems thinking and continuous learning, with a long-term goal of building businesses at the intersection of finance and technology.
